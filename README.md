@@ -29,6 +29,7 @@ I enjoy working on both hardware and software, especially in systems that intera
 ## 📫 Contact Me
 
 * GitHub: https://github.com/ABDELBARI0
+* Email: abdelbarihaddouche@gmail.com
 
 ---
 
