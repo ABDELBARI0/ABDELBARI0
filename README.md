@@ -88,7 +88,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ABDELBARI0/ABDELBARI0/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="[https://raw.githubusercontent.com/ABDELBARI0/ABDELBARI0/snake-output/snake.svg" alt="Snake animation](https://github.com/ABDELBARI0/ABDELBARI0/blob/main/snake.yml)" />
 
 ###
 
